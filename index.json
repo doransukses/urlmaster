@@ -6,5 +6,6 @@
 "urljeteams": "https://eclub.bukujurnal.com/public/api/",
 "urljeclock": "https://jeclock.com/public/api/",
 "urljeposgramedia": "https://gramediadev.doran.id/public/api/",
-"urlserbaserbi": "https://market.dorun.id/"
+"urlserbaserbi": "https://market.dorun.id/",
+"urldorun": "https://dorun.id/"
 }
