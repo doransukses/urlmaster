@@ -14,10 +14,10 @@
 "urljeteconnect_dev": "https://connect.dorangadget.com/",
 "urlkasirpastisukses": "https://kasir.doran.id/",
   "maintenance_jeteconnect": {
-    "start": "2024-12-29T13:59:00",
-    "end": "2024-12-29T16:30:00",
+    "start": "2025-01-13T10:00:00",
+    "end": "2025-01-13T17:00:00",
     "title": "UNDER MAINTENANCE",
-    "description": "JETE CONNECT is under maintenance from 13:59 to 16:30 WIB. Thank you for your patience and understanding."
+    "description": "JETE CONNECT is under maintenance from 10:00 to 17:00 WIB. Thank you for your patience and understanding."
   },
     "maintenance_jeteconnect_dev": {
     "start": "2025-01-10T18:00:00",
