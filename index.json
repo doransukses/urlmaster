@@ -10,8 +10,8 @@
 "urljeposgramedia": "https://gramediadev.doran.id/public/api/",
 "urlserbaserbi": "https://market.dorun.id/",
 "urldorun": "https://dorun.id/",
-"urljeteconnect": "https://connect.dorangadget.com/",
-"urljeteconnect_dev": "https://connect.dorangadget.com/",
+"urljeteconnect": "https://api.jeteconnect.id/",
+"urljeteconnect_dev": "https://api.jeteconnect.id/",
 "urlkasirpastisukses": "https://kasir.doran.id/",
   "maintenance_jeteconnect": {
     "start": "2025-01-13T10:00:00",
