@@ -15,7 +15,7 @@
 "urlkasirpastisukses": "https://kasir.doran.id/",
   "maintenance_jeteconnect": {
     "start": "2026-01-23T10:00:00",
-    "end": "2026-01-23T23:59:00",
+    "end": "2026-01-23T19:59:00",
     "title": "UNDER MAINTENANCE",
     "description": "JETE CONNECT is under urgent maintenance from 10:00 to 23:59 WIB. Thank you for your patience and understanding."
   },
