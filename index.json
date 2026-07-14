@@ -14,14 +14,14 @@
 "urljeteconnect_dev": "https://app.jeteconnect.id/",
 "urlkasirpastisukses": "https://kasir.doran.id/",
   "maintenance_jeteconnect": {
-    "start": "2026-01-23T10:00:00",
-    "end": "2026-01-23T19:59:00",
+    "start": "2026-07-14T16:00:00",
+    "end": "2026-07-14T18:59:00",
     "title": "UNDER MAINTENANCE",
     "description": "JETE CONNECT is under urgent maintenance from 10:00 to 23:59 WIB. Thank you for your patience and understanding."
   },
     "maintenance_jeteconnect_dev": {
-    "start": "2025-04-23T10:00:00",
-    "end": "2025-04-23T17:00:00",
+    "start": "2026-07-14T16:00:00",
+    "end": "2026-07-14T18:59:00",
     "title": "UNDER MAINTENANCE",
     "description": "JETE CONNECT is under maintenance from 18:00 to 21:00 WIB. Thank you for your patience and understanding."
   }
