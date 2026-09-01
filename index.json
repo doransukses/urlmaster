@@ -25,9 +25,9 @@
     "title": "UNDER MAINTENANCE",
     "description": "JETE CONNECT is under maintenance from 16:00 to 19:59 WIB. Thank you for your patience and understanding."
   },
-  "jeteconnect_remote_config": {                                                                                                                                                       $0.00 spent                             
-    "enable_kingwear_build_version": true,                                                                                                                                                                                     
-    "enable_outbox_user_refresh_retry": true                                                                                                                                           MCP                                     
+  "jeteconnect_remote_config": {
+    "enable_kingwear_build_version": true,
+    "enable_outbox_user_refresh_retry": true
   },
   "dorangadget_event_entry": {
     "enabled": true,
@@ -36,7 +36,6 @@
     "jete_run": {
       "title": "JETE RUN GAME",
       "subtitle": "Masuk ke arena permainan event.",
-      "date_label": "Event hari ini",
       "button_label": "Buka"
     },
     "festive": {
