@@ -1,28 +1,49 @@
 {
-"urljebusiness": "https://admin.jebusiness.id/public/api/",
-"urljebusiness_dev": "https://admin.jebusiness.id/public/api/",
-"urljete": "https://jeteapp.doran.id/public/api/",
-"urldoran": "https://api.doran.id/",
-"urljeteams": "https://admin.jeteams.com/public/api/",
-"urljeteams_dev": "https://admin.jeteams.com/public/api/",
-"urljeclock": "https://admin.jeclock.com/public/api/",
-"urljeclock_dev": "https://admin.jeclock.com/public/api/",
-"urljeposgramedia": "https://gramediadev.doran.id/public/api/",
-"urlserbaserbi": "https://market.dorun.id/",
-"urldorun": "https://dorun.id/",
-"urljeteconnect": "https://app.jeteconnect.id/",
-"urljeteconnect_dev": "https://app.jeteconnect.id/",
-"urlkasirpastisukses": "https://kasir.doran.id/",
+  "urljebusiness": "https://admin.jebusiness.id/public/api/",
+  "urljebusiness_dev": "https://admin.jebusiness.id/public/api/",
+  "urljete": "https://jeteapp.doran.id/public/api/",
+  "urldoran": "https://api.doran.id/",
+  "urljeteams": "https://admin.jeteams.com/public/api/",
+  "urljeteams_dev": "https://admin.jeteams.com/public/api/",
+  "urljeclock": "https://admin.jeclock.com/public/api/",
+  "urljeclock_dev": "https://admin.jeclock.com/public/api/",
+  "urljeposgramedia": "https://gramediadev.doran.id/public/api/",
+  "urlserbaserbi": "https://market.dorun.id/",
+  "urldorun": "https://dorun.id/",
+  "urljeteconnect": "https://app.jeteconnect.id/",
+  "urljeteconnect_dev": "https://app.jeteconnect.id/",
+  "urlkasirpastisukses": "https://kasir.doran.id/",
   "maintenance_jeteconnect": {
     "start": "2026-07-14T16:00:00",
     "end": "2026-07-14T19:59:00",
     "title": "UNDER MAINTENANCE",
     "description": "JETE CONNECT is under urgent maintenance from 16:00 to 19:59 WIB. Thank you for your patience and understanding."
   },
-    "maintenance_jeteconnect_dev": {
+  "maintenance_jeteconnect_dev": {
     "start": "2026-07-14T16:00:00",
     "end": "2026-07-14T19:59:00",
     "title": "UNDER MAINTENANCE",
     "description": "JETE CONNECT is under maintenance from 16:00 to 19:59 WIB. Thank you for your patience and understanding."
+  },
+  "dorangadget_event_entry": {
+    "enabled": true,
+    "festive_enabled": true,
+    "agenda_id": "123",
+    "jete_run": {
+      "title": "JETE RUN SURABAYA",
+      "subtitle": "Masuk ke arena permainan event.",
+      "date_label": "Event hari ini",
+      "button_label": "Buka Jete Run"
+    },
+    "festive": {
+      "title": "JETE Festive",
+      "subtitle": "Scan dan kumpulkan poin event",
+      "button_label": "Buka JETE Festive"
+    },
+    "home": {
+      "title": "Doran Gadget",
+      "subtitle": "Belanja dan jelajahi produk kami",
+      "button_label": "Buka Doran Gadget"
+    }
   }
 }
