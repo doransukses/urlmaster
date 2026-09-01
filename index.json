@@ -30,7 +30,7 @@
     "enable_outbox_user_refresh_retry": true
   },
   "dorangadget_event_entry": {
-    "enabled": true,
+    "enabled": false,
     "festive_enabled": true,
     "agenda_id": "320",
     "jete_run": {
