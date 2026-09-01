@@ -33,17 +33,17 @@
       "title": "JETE RUN SURABAYA",
       "subtitle": "Masuk ke arena permainan event.",
       "date_label": "Event hari ini",
-      "button_label": "Buka Jete Run"
+      "button_label": "Buka"
     },
     "festive": {
       "title": "JETE Festive",
       "subtitle": "Scan dan kumpulkan poin event",
-      "button_label": "Buka JETE Festive"
+      "button_label": "Buka"
     },
     "home": {
       "title": "Doran Gadget",
       "subtitle": "Belanja dan jelajahi produk kami",
-      "button_label": "Buka Doran Gadget"
+      "button_label": "Buka"
     }
   }
 }
