@@ -25,6 +25,10 @@
     "title": "UNDER MAINTENANCE",
     "description": "JETE CONNECT is under maintenance from 16:00 to 19:59 WIB. Thank you for your patience and understanding."
   },
+  "jeteconnect_remote_config": {                                                                                                                                                       $0.00 spent                             
+    "enable_kingwear_build_version": true,                                                                                                                                                                                     
+    "enable_outbox_user_refresh_retry": true                                                                                                                                           MCP                                     
+  },
   "dorangadget_event_entry": {
     "enabled": true,
     "festive_enabled": true,
