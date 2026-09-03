@@ -31,7 +31,7 @@
   },
   "dorangadget_event_entry": {
     "enabled": true,
-    "festive_enabled": true,
+    "festive_enabled": false,
     "agenda_id": "320",
     "start_at": "2026-09-06T04:00:00+07:00",
     "end_at": "2026-09-06T11:00:00+07:00",
