@@ -17,13 +17,13 @@
     "start": "2026-10-05T15:40:00+07:00",
     "end": "2026-10-05T18:00:00+07:00",
     "title": "UNDER MAINTENANCE",
-    "description": "JETE CONNECT is undergoing urgent maintenance from 15:40 to 20:00 WIB. Thank you for your patience and understanding."
+    "description": "JETE CONNECT is undergoing urgent maintenance from 15:40 to 18:00 WIB. Thank you for your patience and understanding."
   },
   "maintenance_jeteconnect_dev": {
     "start": "2026-10-05T15:40:00+07:00",
     "end": "2026-10-05T18:00:00+07:00",
     "title": "UNDER MAINTENANCE",
-    "description": "JETE CONNECT is undergoing urgent maintenance from 15:40 to 20:00 WIB. Thank you for your patience and understanding."
+    "description": "JETE CONNECT is undergoing urgent maintenance from 15:40 to 18:00 WIB. Thank you for your patience and understanding."
   },
   "jeteconnect_remote_config": {
     "enable_kingwear_build_version": true,
